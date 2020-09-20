@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "boilerplate"
+    }
+  },
+  "defaultProject": "boilerplate",
+  "cli": {
+    "analytics": "20cb30c8-dc1d-4078-b981-af2ff958f59b"
+  }
 }
